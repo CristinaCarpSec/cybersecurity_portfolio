@@ -6,9 +6,9 @@ The goal of this room was to analyze a Python source code file and interact with
 
 The two final flags were:
 
-`THM{p1alntExtAtt4ckcAnr3alLyhUrty0urxOr}`
+`THM{flag1}`
 
-`THM{BrUt3_ForC1nG_XOR_cAn_B3_FuN_nO?}`
+`THM{flag2}`
 
 ---
 
